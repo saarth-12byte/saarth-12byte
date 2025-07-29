@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saarth Jagtap</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">A passionate AI & Data Science Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saarth-12byte" alt="saarth-12byte" /></a> </p>
 
